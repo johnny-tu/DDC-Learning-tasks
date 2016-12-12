@@ -1,4 +1,4 @@
-# Task 5 - Troubleshooting - Password Recovery
+# Task - UCP - Troubleshooting - Password Recovery
 
 In this task you will see how to recover from a scenario where the password to the built-in UCP admin account has been lost.
 

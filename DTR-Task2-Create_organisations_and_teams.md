@@ -1,8 +1,4 @@
-# Task 2 - Create Organizations and Teams
-
-In this task you will complete the following steps:
-1. 
-
+# Task - DTR - Create Organizations and Teams
 
 ## Pre-requisites
 - DTR installed and integrated with UCP

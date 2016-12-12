@@ -1,4 +1,4 @@
-# Task 2: Deploy a container
+# Task - UCP - Deploy a container
 
 In this task you will use USP to deploy a web server from the official NGINX image. The following steps will walk you through this process.
 

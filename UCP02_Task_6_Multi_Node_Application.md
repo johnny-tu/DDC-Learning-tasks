@@ -1,4 +1,4 @@
-# Task 6 - Deploy Application across multiple nodes
+# Task - UCP - Deploy Application across multiple nodes
 
 ## Pre-requisites
 - UCP installed with at least 2 worker nodes

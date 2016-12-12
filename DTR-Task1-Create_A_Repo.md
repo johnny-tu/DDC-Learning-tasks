@@ -1,4 +1,4 @@
-# Task 1 - Create a Repository
+# Task - DTR - Create a Repository
 
 In this task, you will complete the following steps:
 1. Create a public repository in Docker Trusted Registry using a non admin user account

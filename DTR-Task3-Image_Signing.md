@@ -1,4 +1,4 @@
-# Task 3 - Enabling Image Signing
+# Task - DTR - Enabling Image Signing
 
 In this task you will complete the following steps:
 1. Install the Notary CLI
