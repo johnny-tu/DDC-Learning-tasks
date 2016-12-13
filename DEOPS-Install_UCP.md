@@ -1,5 +1,8 @@
 # Task - Install Universal Control Plane
 
+In this task, you will install the UCP application and then add two additional worker nodes to the cluster. The end result will be a UCP instance with one manager node
+and two worker nodes.  
+
 ## Pre-requisites
 Students should have the following:
 
